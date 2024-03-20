@@ -1,0 +1,13 @@
+name = "Dismount Entity"
+filename = "dismountentity-1.20.4-3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7N61Wcl/versions/ENOLc0l7/dismountentity-1.20.4-3.2.jar"
+hash-format = "sha1"
+hash = "32288990ec5d163ea198efa5a265a144b4ab8e42"
+
+[update]
+[update.modrinth]
+mod-id = "H7N61Wcl"
+version = "ENOLc0l7"
