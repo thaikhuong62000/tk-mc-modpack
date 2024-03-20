@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "Controlify-1.8.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "6GKVGWLK"
