@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0dadb9c993877a93a5da0accb2ce5cfb9b6521c5f217e299c79ade7d199a8139"
+hash = "27c84226205d505a49e4350cda5a61c0d0adb8dbe0cb488a842ff590c0f039ac"
 
 [versions]
 fabric = "0.15.7"
 minecraft = "1.20.4"
+
+[options]
+datapack-folder = "datapacks/*"

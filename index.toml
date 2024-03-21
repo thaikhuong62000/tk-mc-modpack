@@ -121,6 +121,42 @@ file = "config/yosbr/options.txt"
 hash = "071148fed751e319de41a6a614ca0bd273c3b2e92a7079921641a172d48ae187"
 
 [[files]]
+file = "datapacks/Smelting_Plus_DataPack-V1.0.6.zip"
+hash = "2bc381b458277ba63e0036f475fd492810ae0e456f93c44d31bd10194773083a"
+
+[[files]]
+file = "datapacks/VanillaTweaks_c900859_MC1.20-1.20.4.zip"
+hash = "ef73cb1270d98fdb8a313b7f6969c5c5b0778b779334dca9aba733e14a782bdc"
+
+[[files]]
+file = "datapacks/afk display v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "d9c90234d9bd255da525486e8c10c8fadad03c7ba1e62c4e2211c09d68a6cd7e"
+
+[[files]]
+file = "datapacks/armored elytra v1.0.9 (MC 1.20-1.20.4).zip"
+hash = "edd5db2134f129ffb1915c49557c7b02ed9da8935cf563bf8ae9de7f8f8fdec8"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.6 (MC 1.20-1.20.4).zip"
+hash = "599bee2556874d8b78b59b9665ef6edbda47e0fe516b58cbfcfffa2ec01fb0ff"
+
+[[files]]
+file = "datapacks/graves v2.8.10 (MC 1.20-1.20.4).zip"
+hash = "7ae67d2e5e4e732c466b9e0c7252baa7d6738612987350925108d1076a771e12"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.6 (MC 1.20-1.20.4).zip"
+hash = "bc8a2f1b2df61e8104f2a012bad811f783b520305429be06acbb7d5b42390dda"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.1 (MC 1.20-1.20.4).zip"
+hash = "835b8b5eaa2b2898735003f726b21e74e3eb773c7479b90288ad2aac37514262"
+
+[[files]]
+file = "datapacks/vanillarefresh-v1.4.19g_1.20.x.zip"
+hash = "9458605ea2caff54707d21ac75a64bfcd9bea2e1f7cbf60013ee579664c8cd2e"
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "4e28293f194a17008f05bdd638cbf09b02470e78c20cf6ef82d64759f126964f"
 metafile = true
