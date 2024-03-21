@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bottleyourxp.json5"
+hash = "d3f63ae446f3c662a176440b3977c4843e42e647ef1b31c90aea94b8c3a89444"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
@@ -11,6 +15,10 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "b5a9c8947f8df41c9cbd8aae969607df50ab0d88ecf5cf83ae35cfebe44d4542"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "7f8d1219d0a44b9cb2a774680cd7bc47e0c1626ec80c192c786fb4eca583acac"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -308,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
-hash = "83508b385b24abc42539a53f6a4412d4b46aaedcf0fd0f188358392919e80127"
+hash = "9846cce0cba4a06787ec2d06d9a223cdb1e8614eaa5c5f56c9bcc8440ec86539"
 metafile = true
 
 [[files]]
@@ -418,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "1dc8fb0a505458dc54327afe183d219aa8f2cc07c14c570df6c4161e2a979e08"
+hash = "7211acf1980ca4716d355a26de00492cfb9c9ed1a44274fc76d3eb2379c03f41"
 metafile = true
 
 [[files]]
@@ -453,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+hash = "d68dd484ee7b7c09bc6d505495ea67cfec225fa599a440dd9bd568bfc51c9eb1"
 metafile = true
 
 [[files]]
@@ -553,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "89d0605e73d81cd1d346e84fcb0daa37169f3aa61e95e306462f4581def43912"
+hash = "6aa8d5f12998b3c022f79a2f127763ef6fa03404d03b78b4538eab6f1496a67a"
 metafile = true
 
 [[files]]
@@ -603,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
+hash = "00321229aa8d43e7e85aeb43040983774126aa6e3c3d59be8d2d25a6c02784d1"
 metafile = true
 
 [[files]]

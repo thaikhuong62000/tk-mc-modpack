@@ -11,3 +11,7 @@ hash = "d205f6dbb4bdf1858f21bb5b89b502ec228369da"
 [update.modrinth]
 mod-id = "RPOSBQgq"
 version = "UKVc6pCj"
+
+[option]
+optional = true
+default = true
