@@ -137,6 +137,10 @@ file = "datapacks/VanillaTweaks_c900859_MC1.20-1.20.4.zip"
 hash = "ef73cb1270d98fdb8a313b7f6969c5c5b0778b779334dca9aba733e14a782bdc"
 
 [[files]]
+file = "datapacks/Villager+Leash+v1.0.2(mc-1.20.3-4).zip"
+hash = "216636f48cb722468bc62553b02ebb5081c96c443acf44bed00779c66c13b284"
+
+[[files]]
 file = "datapacks/afk display v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "d9c90234d9bd255da525486e8c10c8fadad03c7ba1e62c4e2211c09d68a6cd7e"
 
@@ -280,11 +284,6 @@ hash = "a0426ebbc7ddbe1bd99aea015f713913771e0701ad292359371422fbb73a6f66"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "1fc71a9ba817a009f47728cb5355598242ff13612fe7f0159740753e776e9959"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "63df597831cc42d4d8ca87feeae706dc3cf57dd56acfb971d67c6f55ba7e6e5b"
 metafile = true
@@ -406,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "122035a5e885c8c784fc36fc5ea58b31f6f8f67fbb44d4d0695b2edae207ebc2"
+hash = "3ad5718dd2a67be4656b8c7f83edf3cca4a63eebf4651f2cefac8d8b76fa861f"
 metafile = true
 
 [[files]]
@@ -426,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "7211acf1980ca4716d355a26de00492cfb9c9ed1a44274fc76d3eb2379c03f41"
+hash = "a65de88d458fadb1bc16fabb527f61fc4ee78624fdcaa22bd86a0eb0bd04443d"
 metafile = true
 
 [[files]]
@@ -616,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "00321229aa8d43e7e85aeb43040983774126aa6e3c3d59be8d2d25a6c02784d1"
+hash = "f3824898245d64a6dd7aef40f6a84ad3d54b45f093fd0f6ac71f546a1fb43333"
 metafile = true
 
 [[files]]
