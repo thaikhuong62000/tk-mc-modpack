@@ -224,11 +224,6 @@ hash = "1355381478a3e35a3082c2ee640fe1f2a0ce5065d7898e2b9c8e7c4d4cc4a53c"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
 metafile = true
@@ -266,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "eed430c64109310fa59cea091c8a42e14ef8b7c32dfa75a4c749c8046208ae1e"
 metafile = true
 
 [[files]]
@@ -360,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
+hash = "cc2924a35b250a6bb000ffe59e52a57cf82105fe3053a1ae0b177f2b1bbbdbb0"
 metafile = true
 
 [[files]]
@@ -431,11 +421,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "074dc3c92b31f4ee4e0e13d7a03d9e2fe66a98fd58447e49fee7c11d1c751389"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "8ef3e19870ab9154bab0c28152702b92fc3a310155f4c86e8a559e993747951a"
 metafile = true
 
 [[files]]
@@ -626,6 +611,16 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "fe10da53898bab5af7f1aa587d122f28e7eb02256bf06fb3ccce205b62482384"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1600e00f10ba1ad1c0b60be85bee523e66b13cfa61c8beab1b48042eb0a574bf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7990871e681fc5b0d67baf841c0c855480979c02bf05881f7683be110a286a01"
 metafile = true
 
 [[files]]
