@@ -1,15 +1,15 @@
 name = "Tk Mc Modpack"
 author = "Tk"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e83ac81dc8e3b2412bdbb6d0dedc3d6f4c2b4f887f802bd7ecafa79cf45a38b8"
+hash = "0cb09e8625135046260d5804fc63159b60c455711ea7d96af98de9b83a71b9f5"
 
 [versions]
-fabric = "0.15.7"
+fabric = "0.15.9"
 minecraft = "1.20.4"
 
 [options]
