@@ -316,8 +316,8 @@ hash = "eddad0af34215a88d738dd76dea4f2e47769a2f5de874ad7e71951cf18ac9593"
 metafile = true
 
 [[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "9846cce0cba4a06787ec2d06d9a223cdb1e8614eaa5c5f56c9bcc8440ec86539"
+file = "mods/e4mc.pw.toml"
+hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
 metafile = true
 
 [[files]]
