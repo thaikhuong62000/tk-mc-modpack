@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3ad5718dd2a67be4656b8c7f83edf3cca4a63eebf4651f2cefac8d8b76fa861f"
+hash = "f91f449f949d8618e231fa4a64b8715c49d13030779273cfa0b7a5f889b4c0ed"
 metafile = true
 
 [[files]]
@@ -427,12 +427,12 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "a65de88d458fadb1bc16fabb527f61fc4ee78624fdcaa22bd86a0eb0bd04443d"
+hash = "2f7946a8fa991ff91e8b37521a35376c017a923886819375ba7f2d72592a8069"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "074dc3c92b31f4ee4e0e13d7a03d9e2fe66a98fd58447e49fee7c11d1c751389"
+hash = "93c5aad1ccac21e00dc01317ccac6bae3553f2c9e8a8887b070bdc3233f44189"
 metafile = true
 
 [[files]]
@@ -632,12 +632,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e92e0c8f73b049649c18fc8a5f2e9a7fe310ed6cec310811399db51b99a2b715"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
 metafile = true
 
 [[files]]
