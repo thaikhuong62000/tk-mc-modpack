@@ -311,6 +311,11 @@ hash = "c5e846de822236cf20f7f9c2b754aae5530344d4616bee8efd5ad987e8245fe0"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "eddad0af34215a88d738dd76dea4f2e47769a2f5de874ad7e71951cf18ac9593"
 metafile = true
