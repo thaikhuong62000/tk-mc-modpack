@@ -671,11 +671,6 @@ hash = "4abe81b6fbba0f04f77b29c938a7ef7c9e312447e1a16e9d1f626383f85c4601"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "280af64e38fc4cbab54a9395e14a90cdd11f544a07836ca03a7d4bff82d3396f"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
 hash = "a214ba7886001af8c15dbd50e435bac72250e118558917dd864e29142bf33c89"
 metafile = true
