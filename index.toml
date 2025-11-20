@@ -53,6 +53,11 @@ file = "config/vmp.properties"
 hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
 
 [[files]]
+file = "datapacks/*/terratonic.pw.toml"
+hash = "567127f1aad8e6347489e801eed17c5362a046ad4c8f29a4688098a3e3990eb5"
+metafile = true
+
+[[files]]
 file = "datapacks/VanillaTweaks_c714406_MC1.21-1.21.10.zip"
 hash = "c9c9c6fa9e5078b5590f97fda40c30e7796e0c674e17d162bc463bccde2982cc"
 
@@ -340,6 +345,11 @@ hash = "f6b3a34df00bc64fc97188100f459a7abdefd474dfcbafd57578d0b1ffdef4c0"
 metafile = true
 
 [[files]]
+file = "mods/smelting-plus.pw.toml"
+hash = "e52b439d8014ee802c31df2e508e27f25e2dfa1e9d01f16c2e19602fc9d72f80"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
 metafile = true
@@ -352,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "cd1d4c8b2ad6df29e9f152301f51f46b5c4641882dc20d5eef8934e58fd70e77"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Smelting Plus"
+filename = "smelting-plus-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDvYGZrH/versions/7kpsRKez/smelting-plus-1.1.2.jar"
+hash-format = "sha512"
+hash = "dccdab82e5a37285eceb8b97bd9ec453c7ee142bd86520fc40aad5474a85f007bbda6212ce84bc19fc5183b6ca00c7ea22a624432612a8a2b2ade1eb27d6735e"
+
+[update]
+[update.modrinth]
+mod-id = "xDvYGZrH"
+version = "7kpsRKez"
