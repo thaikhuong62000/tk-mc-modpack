@@ -161,6 +161,11 @@ hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]
+file = "mods/better-capes-x.pw.toml"
+hash = "53d692a914de9fd69a74e9bddf2c447f523b604f20a134f9e07de72780a3d466"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
@@ -181,8 +186,18 @@ hash = "b98e0aca52ce8d08ee8df7177886589511b8bca779af078a6ff4837e814bccf4"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3d24d58b2caf4fd73d76b2d734a1d06490994d5d38177376e6f5d8d9f8fb87e0"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
 
 [[files]]
@@ -216,8 +231,23 @@ hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
 
 [[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "fa3ae5544ef1069c507cdf030c4b8aeceaeea16d39254c373c410c4048c85b45"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "5e0d1e1fe8209953a57de4968e57695217c3953d0fd3f54a7928e31ab27eff1c"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "e87a4eb7527e13fab94b671ce1d267cfc4d6093a3c3c1fbab7f135fb413727dc"
 metafile = true
 
 [[files]]
@@ -271,6 +301,11 @@ hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "4629f9551a645efd4b53b4ded6d4aa20e827b48307d6cf24c81d4a3f50ab8ad5"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
@@ -295,6 +330,16 @@ hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
 metafile = true
 
 [[files]]
+file = "mods/silkier-touch.pw.toml"
+hash = "9490de61cfad5b91840ff73dc9fed4d929297b439ad04cd85cf17731bcf95acc"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "f6b3a34df00bc64fc97188100f459a7abdefd474dfcbafd57578d0b1ffdef4c0"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
 metafile = true
@@ -302,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "cd1d4c8b2ad6df29e9f152301f51f46b5c4641882dc20d5eef8934e58fd70e77"
 metafile = true
 
 [[files]]
