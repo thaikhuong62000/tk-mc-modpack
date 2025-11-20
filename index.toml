@@ -1,2 +1,248 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
+
+[[files]]
+file = "config/betterblockentities.json"
+hash = "e64baa518402bc0fbab86efb1eb8534298e8e491fa054e474b674092dcda65f0"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "a72fb311d1a56ac2b4c069b5225f8c7d09302fe4250ee3a842145ae271a2d5a2"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "76aa2fb300513b5e5ce592c606da18a59ad07cc7d98b9a7cd3abc420fdddce13"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "972d6cc73dbe7fab84118d89423ed70dec3c20b34494fbb4337b987ad3b2bf6f"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "51c93cc3885601af7865225dfc4090d3c6dede7daca08ab93e3e913e61820406"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "13d8a5b1e920c988d3308b31f308397f868e0505ab63fe6b7add76a4c2cc12ef"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
+
+[[files]]
+file = "datapacks/VanillaTweaks_c714406_MC1.21-1.21.10.zip"
+hash = "c9c9c6fa9e5078b5590f97fda40c30e7796e0c674e17d162bc463bccde2982cc"
+
+[[files]]
+file = "datapacks/afk display v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
+
+[[files]]
+file = "datapacks/armored elytra v2.0.8 (MC 1.21-1.21.10).zip"
+hash = "28df388a0f97837b06c756e03692eaacd6ccf6fd552243f55ff8c56096c58479"
+
+[[files]]
+file = "datapacks/back v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "7731c642a83cf67639d0233ce43664a26d80318a42357c417bee51831298b0a8"
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.7 (MC 1.21-1.21.10).zip"
+hash = "608908195804304dfee8150ed0fe3ee982b40fb2879fd717d164348ebd322ea2"
+
+[[files]]
+file = "datapacks/cauldron mud v1.0.7 (MC 1.21-1.21.10).zip"
+hash = "d79930d149a8c984257dc498992a87df4571dea03af089eeb7fdab711566072c"
+
+[[files]]
+file = "datapacks/chunk loaders v1.0.15 (MC 1.21-1.21.10).zip"
+hash = "44e3792adae702aa8d819ae018e5fe3c02a320992d47380a57c29c31765de149"
+
+[[files]]
+file = "datapacks/coordinates hud v1.2.15 (MC 1.21-1.21.10).zip"
+hash = "ac57d0b8d19cc3b3caf7719eee0a67e25765e5b95790e85091c9c58ad447b5e0"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "a63d05018a10fcf5fb488a89eed8a952d26b17cc4ce0320ba4c1b1ec86e41c30"
+
+[[files]]
+file = "datapacks/dragon drops v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "1a7053df0d904e8776478d3d0258710ca7c8ba6896e11b0caa7afb75248aa148"
+
+[[files]]
+file = "datapacks/elevators v1.0.15 (MC 1.21-1.21.10).zip"
+hash = "56fc490f8fae576cf78e0239bbcb07b901feb223bb8898622abf1833de484f01"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.19 (MC 1.21-1.21.10).zip"
+hash = "defaa4a6fd51973ed0ef725290e5edbf8cae4100becf92916560568905d5fdd9"
+
+[[files]]
+file = "datapacks/glass always drops v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "11835c0385c571bd5f0fd4c1c970bcab61bd0db4e15475b9ec7e6365ee6c3b40"
+
+[[files]]
+file = "datapacks/graves v4.0.4 (MC 1.21-1.21.10).zip"
+hash = "88a1794e00ec12d32d697baeef97c9abfd62534773453eef5b65936ec895c9cf"
+
+[[files]]
+file = "datapacks/homes v1.5.16 (MC 1.21-1.21.10).zip"
+hash = "f63f4a2841ac6dddf74145f671faa7f2ef14d76806c1e86c65fa16614b085f82"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
+hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"
+
+[[files]]
+file = "datapacks/name colors v1.0.12 (MC 1.21-1.21.10).zip"
+hash = "48d8216ced66bba8e779e1249b5c0ac4a8a106554273a8f5252ea50806ecca19"
+
+[[files]]
+file = "datapacks/silk touch budding amethyst v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "f9fec0cf7ce0eff798f655cd03f60651daa7d8bd8bf6edc0cfce6788a7571a48"
+
+[[files]]
+file = "datapacks/spawn v2.3.14 (MC 1.21-1.21.10).zip"
+hash = "c616d330bf10acf6e2bced50176b048677796de649e05f5ad1d9208f7b6f7cc4"
+
+[[files]]
+file = "datapacks/timber v2.1.17 (MC 1.21-1.21.10).zip"
+hash = "ac4eb42d96be17482259f29664fcb3018d25d22f725415a6515658dfefd58ba1"
+
+[[files]]
+file = "datapacks/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
+hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
+
+[[files]]
+file = "datapacks/xp bottling v1.1.15 (MC 1.21-1.21.10).zip"
+hash = "56e5a03990423d6cc3f08485828352415008e2f2dbad43b5b8db00424a664580"
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "d170ce4828b4b7fb7d21dc1dafd7e318e3f0cceea823f8d4f4e78f062baacc57"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "a2aa577e93491f2231af331570b5c96a384d260d8770bbd8271742567baaf2f7"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "5ef3355133eaa7f969e60ed9b56c5e3365c1b4ae61b4aec56f96ca0066a3276a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+metafile = true
+
+[[files]]
+file = "mods/noisium-fabric-2.7.0+mc1.21.10.jar"
+hash = "2fa6b38ea665b214d10a5bc6c31fc3e0f164f3b74ed9f0d47a2be12917337d91"
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak-fabric-0.1.7+mc1.21.9.jar"
+hash = "98f97d3a4f9f22122532e82fb5f40ccd2a723a15ce9ccb15c0af317bf0fe6d58"
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
+metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r922512_MC1.21.x.zip"
+hash = "320aeadc236a26fc8d7a330b88705ccd502ac49abc0918f8168dcd0c3c01f006"

@@ -1,0 +1,13 @@
+name = "Modflared"
+filename = "modflared-1.5.2+release.119.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRHq6kbO/versions/wPntKpRd/modflared-1.5.2%2Brelease.119.jar"
+hash-format = "sha512"
+hash = "9fea7c1d7bc27100d9a11085f4033324e2a15cfb5822d015457e7dc64aba56b74f3b7c963c16ad1a167cc35b0e1921e541f1323565d25a7d9b7a9e77fb9bf9b7"
+
+[update]
+[update.modrinth]
+mod-id = "uRHq6kbO"
+version = "wPntKpRd"
