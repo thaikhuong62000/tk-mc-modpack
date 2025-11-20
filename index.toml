@@ -181,6 +181,11 @@ hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "b77a2bdc1ed5cda22e643b73dbcfb77cd26881903bcf55d861cbe85cb6274e76"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
@@ -198,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
 metafile = true
 
 [[files]]
@@ -276,8 +291,18 @@ hash = "55c7b1073141a49fbd6d3ba480bd95049f7978513e8261ec2bedab8e82409836"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "47e38eeda17a991d3201448e71f68081893c8e7aee15b44088dc86eacfc8ca43"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
 metafile = true
 
 [[files]]
@@ -303,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
 metafile = true
 
 [[files]]
@@ -365,6 +395,11 @@ hash = "cd1d4c8b2ad6df29e9f152301f51f46b5c4641882dc20d5eef8934e58fd70e77"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
 metafile = true
@@ -372,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak-fabric-0.1.7+mc1.21.9.jar"
 hash = "98f97d3a4f9f22122532e82fb5f40ccd2a723a15ce9ccb15c0af317bf0fe6d58"
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c5092ec9a074c3afcc2312c985d0829e023dcfa3524597ec1c4902359d5c78dc"
+metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
