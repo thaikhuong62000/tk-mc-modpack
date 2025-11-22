@@ -228,11 +228,6 @@ hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-mvus.pw.toml"
-hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
-metafile = true
-
-[[files]]
 file = "mods/modflared.pw.toml"
 hash = "5ef3355133eaa7f969e60ed9b56c5e3365c1b4ae61b4aec56f96ca0066a3276a"
 metafile = true
