@@ -53,99 +53,6 @@ file = "config/vmp.properties"
 hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
 
 [[files]]
-file = "datapacks/*/terratonic.pw.toml"
-hash = "567127f1aad8e6347489e801eed17c5362a046ad4c8f29a4688098a3e3990eb5"
-metafile = true
-
-[[files]]
-file = "datapacks/VanillaTweaks_c714406_MC1.21-1.21.10.zip"
-hash = "c9c9c6fa9e5078b5590f97fda40c30e7796e0c674e17d162bc463bccde2982cc"
-
-[[files]]
-file = "datapacks/afk display v1.1.14 (MC 1.21-1.21.10).zip"
-hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
-
-[[files]]
-file = "datapacks/armored elytra v2.0.8 (MC 1.21-1.21.10).zip"
-hash = "28df388a0f97837b06c756e03692eaacd6ccf6fd552243f55ff8c56096c58479"
-
-[[files]]
-file = "datapacks/back v1.3.14 (MC 1.21-1.21.10).zip"
-hash = "7731c642a83cf67639d0233ce43664a26d80318a42357c417bee51831298b0a8"
-
-[[files]]
-file = "datapacks/cauldron concrete v3.0.7 (MC 1.21-1.21.10).zip"
-hash = "608908195804304dfee8150ed0fe3ee982b40fb2879fd717d164348ebd322ea2"
-
-[[files]]
-file = "datapacks/cauldron mud v1.0.7 (MC 1.21-1.21.10).zip"
-hash = "d79930d149a8c984257dc498992a87df4571dea03af089eeb7fdab711566072c"
-
-[[files]]
-file = "datapacks/chunk loaders v1.0.15 (MC 1.21-1.21.10).zip"
-hash = "44e3792adae702aa8d819ae018e5fe3c02a320992d47380a57c29c31765de149"
-
-[[files]]
-file = "datapacks/coordinates hud v1.2.15 (MC 1.21-1.21.10).zip"
-hash = "ac57d0b8d19cc3b3caf7719eee0a67e25765e5b95790e85091c9c58ad447b5e0"
-
-[[files]]
-file = "datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
-hash = "a63d05018a10fcf5fb488a89eed8a952d26b17cc4ce0320ba4c1b1ec86e41c30"
-
-[[files]]
-file = "datapacks/dragon drops v1.3.14 (MC 1.21-1.21.10).zip"
-hash = "1a7053df0d904e8776478d3d0258710ca7c8ba6896e11b0caa7afb75248aa148"
-
-[[files]]
-file = "datapacks/elevators v1.0.15 (MC 1.21-1.21.10).zip"
-hash = "56fc490f8fae576cf78e0239bbcb07b901feb223bb8898622abf1833de484f01"
-
-[[files]]
-file = "datapacks/fast leaf decay v2.0.19 (MC 1.21-1.21.10).zip"
-hash = "defaa4a6fd51973ed0ef725290e5edbf8cae4100becf92916560568905d5fdd9"
-
-[[files]]
-file = "datapacks/glass always drops v1.0.6 (MC 1.21-1.21.10).zip"
-hash = "11835c0385c571bd5f0fd4c1c970bcab61bd0db4e15475b9ec7e6365ee6c3b40"
-
-[[files]]
-file = "datapacks/graves v4.0.4 (MC 1.21-1.21.10).zip"
-hash = "88a1794e00ec12d32d697baeef97c9abfd62534773453eef5b65936ec895c9cf"
-
-[[files]]
-file = "datapacks/homes v1.5.16 (MC 1.21-1.21.10).zip"
-hash = "f63f4a2841ac6dddf74145f671faa7f2ef14d76806c1e86c65fa16614b085f82"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
-hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"
-
-[[files]]
-file = "datapacks/name colors v1.0.12 (MC 1.21-1.21.10).zip"
-hash = "48d8216ced66bba8e779e1249b5c0ac4a8a106554273a8f5252ea50806ecca19"
-
-[[files]]
-file = "datapacks/silk touch budding amethyst v1.0.6 (MC 1.21-1.21.10).zip"
-hash = "f9fec0cf7ce0eff798f655cd03f60651daa7d8bd8bf6edc0cfce6788a7571a48"
-
-[[files]]
-file = "datapacks/spawn v2.3.14 (MC 1.21-1.21.10).zip"
-hash = "c616d330bf10acf6e2bced50176b048677796de649e05f5ad1d9208f7b6f7cc4"
-
-[[files]]
-file = "datapacks/timber v2.1.17 (MC 1.21-1.21.10).zip"
-hash = "ac4eb42d96be17482259f29664fcb3018d25d22f725415a6515658dfefd58ba1"
-
-[[files]]
-file = "datapacks/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
-hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
-
-[[files]]
-file = "datapacks/xp bottling v1.1.15 (MC 1.21-1.21.10).zip"
-hash = "56e5a03990423d6cc3f08485828352415008e2f2dbad43b5b8db00424a664580"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
@@ -178,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "cbcf472f912ae23acb56bea2e1d15045a7c4b6d2d57af2788aa3423836df84b9"
 metafile = true
 
 [[files]]
@@ -301,6 +213,11 @@ hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
 metafile = true
@@ -400,8 +317,13 @@ hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1eb292df099af4d3649099aa50fe4db21dc74b1229e9e68f35a5a51aae746729"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
-hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
+hash = "e22d574139b2e480775ddf3258f879679d534ac1f6ffe68e64ff4408e024e6c7"
 metafile = true
 
 [[files]]
@@ -441,3 +363,83 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r922512_MC1.21.x.zip"
 hash = "320aeadc236a26fc8d7a330b88705ccd502ac49abc0918f8168dcd0c3c01f006"
+
+[[files]]
+file = "world/datapacks/VanillaTweaks_c714406_MC1.21-1.21.10.zip"
+hash = "c9c9c6fa9e5078b5590f97fda40c30e7796e0c674e17d162bc463bccde2982cc"
+
+[[files]]
+file = "world/datapacks/afk display v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
+
+[[files]]
+file = "world/datapacks/armored elytra v2.0.8 (MC 1.21-1.21.10).zip"
+hash = "28df388a0f97837b06c756e03692eaacd6ccf6fd552243f55ff8c56096c58479"
+
+[[files]]
+file = "world/datapacks/back v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "7731c642a83cf67639d0233ce43664a26d80318a42357c417bee51831298b0a8"
+
+[[files]]
+file = "world/datapacks/cauldron concrete v3.0.7 (MC 1.21-1.21.10).zip"
+hash = "608908195804304dfee8150ed0fe3ee982b40fb2879fd717d164348ebd322ea2"
+
+[[files]]
+file = "world/datapacks/cauldron mud v1.0.7 (MC 1.21-1.21.10).zip"
+hash = "d79930d149a8c984257dc498992a87df4571dea03af089eeb7fdab711566072c"
+
+[[files]]
+file = "world/datapacks/chunk loaders v1.0.15 (MC 1.21-1.21.10).zip"
+hash = "44e3792adae702aa8d819ae018e5fe3c02a320992d47380a57c29c31765de149"
+
+[[files]]
+file = "world/datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "a63d05018a10fcf5fb488a89eed8a952d26b17cc4ce0320ba4c1b1ec86e41c30"
+
+[[files]]
+file = "world/datapacks/dragon drops v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "1a7053df0d904e8776478d3d0258710ca7c8ba6896e11b0caa7afb75248aa148"
+
+[[files]]
+file = "world/datapacks/fast leaf decay v2.0.19 (MC 1.21-1.21.10).zip"
+hash = "defaa4a6fd51973ed0ef725290e5edbf8cae4100becf92916560568905d5fdd9"
+
+[[files]]
+file = "world/datapacks/glass always drops v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "11835c0385c571bd5f0fd4c1c970bcab61bd0db4e15475b9ec7e6365ee6c3b40"
+
+[[files]]
+file = "world/datapacks/graves v4.0.4 (MC 1.21-1.21.10).zip"
+hash = "88a1794e00ec12d32d697baeef97c9abfd62534773453eef5b65936ec895c9cf"
+
+[[files]]
+file = "world/datapacks/homes v1.5.16 (MC 1.21-1.21.10).zip"
+hash = "f63f4a2841ac6dddf74145f671faa7f2ef14d76806c1e86c65fa16614b085f82"
+
+[[files]]
+file = "world/datapacks/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
+hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"
+
+[[files]]
+file = "world/datapacks/name colors v1.0.12 (MC 1.21-1.21.10).zip"
+hash = "48d8216ced66bba8e779e1249b5c0ac4a8a106554273a8f5252ea50806ecca19"
+
+[[files]]
+file = "world/datapacks/silk touch budding amethyst v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "f9fec0cf7ce0eff798f655cd03f60651daa7d8bd8bf6edc0cfce6788a7571a48"
+
+[[files]]
+file = "world/datapacks/spawn v2.3.14 (MC 1.21-1.21.10).zip"
+hash = "c616d330bf10acf6e2bced50176b048677796de649e05f5ad1d9208f7b6f7cc4"
+
+[[files]]
+file = "world/datapacks/timber v2.1.17 (MC 1.21-1.21.10).zip"
+hash = "ac4eb42d96be17482259f29664fcb3018d25d22f725415a6515658dfefd58ba1"
+
+[[files]]
+file = "world/datapacks/unlock all recipes v2.0.15 (MC 1.21-1.21.10).zip"
+hash = "832d5fb8145f6bc92c6bf1c1485adf85d556013bed8e8946463403581a4e9c80"
+
+[[files]]
+file = "world/datapacks/xp bottling v1.1.15 (MC 1.21-1.21.10).zip"
+hash = "56e5a03990423d6cc3f08485828352415008e2f2dbad43b5b8db00424a664580"
