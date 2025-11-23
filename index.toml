@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "9e920a265e638d5c03a1b3bd647a79a1d38619fc612ee190be2061b7ccb68e96"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -88,11 +92,6 @@ hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "cbcf472f912ae23acb56bea2e1d15045a7c4b6d2d57af2788aa3423836df84b9"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "b77a2bdc1ed5cda22e643b73dbcfb77cd26881903bcf55d861cbe85cb6274e76"
 metafile = true
@@ -120,11 +119,6 @@ metafile = true
 [[files]]
 file = "mods/dcwa.pw.toml"
 hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
 metafile = true
 
 [[files]]
@@ -210,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
 metafile = true
 
 [[files]]
@@ -309,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "1eb292df099af4d3649099aa50fe4db21dc74b1229e9e68f35a5a51aae746729"
 metafile = true
 
 [[files]]
